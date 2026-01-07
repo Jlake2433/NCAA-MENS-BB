@@ -624,25 +624,25 @@
 		
 		{"conferencePrestige": 44, "name": "Northeast Conference", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "CCSU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Central Connecticut State", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/centralConnecticutState.png?raw=true"},
+			{"abbreviation": "CCSU", "defenseScheme": "Man-to-Man", "mascot": "Blue Devils", "name": "Central Connecticut State", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/centralConnecticutState.png?raw=true"},
 			
-			{"abbreviation": "LIU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "LIU", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/liu.png?raw=true"},
+			{"abbreviation": "LIU", "defenseScheme": "Man-to-Man", "mascot": "Sharks", "name": "Long Island", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/liu.png?raw=true"},
 			
-			{"abbreviation": "WAG", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Wagner", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/wagner.png?raw=true"}, 
+			{"abbreviation": "WAG", "defenseScheme": "Man-to-Man", "mascot": "Seahawks", "name": "Wagner", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/wagner.png?raw=true"}, 
 			
-			{"abbreviation": "LEM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Le Moyne", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/leMoyne.png?raw=true"},
+			{"abbreviation": "LEM", "defenseScheme": "Man-to-Man", "mascot": "Dolphins", "name": "Le Moyne", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/leMoyne.png?raw=true"},
 			
-			{"abbreviation": "MERC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Mercyhurst", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mercyhurst.png?raw=true"},
+			{"abbreviation": "MERC", "defenseScheme": "Man-to-Man", "mascot": "Lakers", "name": "Mercyhurst", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mercyhurst.png?raw=true"},
 			
-			{"abbreviation": "NHVN", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "New Haven", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/newHaven.png?raw=true"},
+			{"abbreviation": "NHVN", "defenseScheme": "Man-to-Man", "mascot": "Chargers", "name": "New Haven", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/newHaven.png?raw=true"},
 			
-			{"abbreviation": "FDU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Fairleigh Dickinson", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/fairleighDickinson.png?raw=true"},
+			{"abbreviation": "FDU", "defenseScheme": "Man-to-Man", "mascot": "Knights", "name": "Fairleigh Dickinson", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/fairleighDickinson.png?raw=true"},
 			
-			{"abbreviation": "STON", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Stonehill", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/stonehill.png?raw=true"},
+			{"abbreviation": "STON", "defenseScheme": "Man-to-Man", "mascot": "Skyhawks", "name": "Stonehill", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/stonehill.png?raw=true"},
 			
-			{"abbreviation": "CHST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Chicago State", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/chicagoState.png?raw=true"},
+			{"abbreviation": "CHST", "defenseScheme": "Man-to-Man", "mascot": "Cougars", "name": "Chicago State", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/chicagoState.png?raw=true"},
 			
-			{"abbreviation": "SFPA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Saint Francis", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/saintFrancis.png?raw=true"}],
+			{"abbreviation": "SFPA", "defenseScheme": "Man-to-Man", "mascot": "Red Flash", "name": "Saint Francis", "offenseScheme": "motion", "prestige": 44, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/saintFrancis.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 
@@ -650,27 +650,27 @@
 		
 		{"conferencePrestige": 50, "name": "Ohio Valley Conference", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "LIND", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Lindenwood", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lindenwood.png?raw=true"},
+			{"abbreviation": "LIND", "defenseScheme": "Man-to-Man", "mascot": "Lions", "name": "Lindenwood", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lindenwood.png?raw=true"},
 			
-			{"abbreviation": "MORE", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "More", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/more.png?raw=true"},
+			{"abbreviation": "MORE", "defenseScheme": "Man-to-Man", "mascot": "Eagles", "name": "Morehead St.", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/more.png?raw=true"},
 			
-			{"abbreviation": "TNST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Tennessee State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennesseeState.png?raw=true"},
+			{"abbreviation": "TNST", "defenseScheme": "Man-to-Man", "mascot": "Tigers", "name": "Tennessee State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennesseeState.png?raw=true"},
 			
-			{"abbreviation": "EIU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Eastern Illinois", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/easternIllinois.png?raw=true"},
+			{"abbreviation": "EIU", "defenseScheme": "Man-to-Man", "mascot": "Panthers", "name": "Eastern Illinois", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/easternIllinois.png?raw=true"},
 			
-			{"abbreviation": "UTM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Tennessee-Martin", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennesseeMartin.png?raw=true"},
+			{"abbreviation": "UTM", "defenseScheme": "Man-to-Man", "mascot": "Skyhawks", "name": "Tennessee-Martin", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennesseeMartin.png?raw=true"},
 			
-			{"abbreviation": "SIUE", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "SIU Edwardsville", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/siuEdwardsville.png?raw=true"},
+			{"abbreviation": "SIUE", "defenseScheme": "Man-to-Man", "mascot": "Cougars", "name": "SIU Edwardsville", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/siuEdwardsville.png?raw=true"},
 			
-			{"abbreviation": "SEMO", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Southeast Missouri State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southeastMissouriState.png?raw=true"},
+			{"abbreviation": "SEMO", "defenseScheme": "Man-to-Man", "mascot": "Redhawks", "name": "Southeast Missouri State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southeastMissouriState.png?raw=true"},
 			
-			{"abbreviation": "LR", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Arkansas-Little Rock", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansasLittleRock.png?raw=true"},
+			{"abbreviation": "LR", "defenseScheme": "Man-to-Man", "mascot": "Trojans", "name": "Arkansas-Little Rock", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansasLittleRock.png?raw=true"},
 			
-			{"abbreviation": "TNTC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Tennessee Tech", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennesseeTech.png?raw=true"},
+			{"abbreviation": "TNTC", "defenseScheme": "Man-to-Man", "mascot": "Golden Eagles", "name": "Tennessee Tech", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennesseeTech.png?raw=true"},
 			
-			{"abbreviation": "WIU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Western Illinois", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/westernIllinois.png?raw=true"},
+			{"abbreviation": "WIU", "defenseScheme": "Man-to-Man", "mascot": "Leathernecks", "name": "Western Illinois", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/westernIllinois.png?raw=true"},
 			
-			{"abbreviation": "USI", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Southern Indiana", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southernIndiana.png?raw=true"}],
+			{"abbreviation": "USI", "defenseScheme": "Man-to-Man", "mascot": "Screaming Eagles", "name": "Southern Indiana", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southernIndiana.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 		
@@ -678,25 +678,25 @@
 		
 		{"conferencePrestige": 50, "name": "Patriot League", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "NAVY", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Navy", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/navy.png?raw=true"},
+			{"abbreviation": "NAVY", "defenseScheme": "Man-to-Man", "mascot": "Midshipmen", "name": "Navy", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/navy.png?raw=true"},
 			
-			{"abbreviation": "AMER", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "American", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/american.png?raw=true"},
+			{"abbreviation": "AMER", "defenseScheme": "Man-to-Man", "mascot": "Eagles", "name": "American", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/american.png?raw=true"},
 			
-			{"abbreviation": "ARMY", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "ARMY", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/army.png?raw=true"},
+			{"abbreviation": "ARMY", "defenseScheme": "Man-to-Man", "mascot": "Black Knights", "name": "ARMY", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/army.png?raw=true"},
 			
-			{"abbreviation": "COLG", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Colgate", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/colgate.png?raw=true"},
+			{"abbreviation": "COLG", "defenseScheme": "Man-to-Man", "mascot": "Raiders", "name": "Colgate", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/colgate.png?raw=true"},
 			
-			{"abbreviation": "HC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Holy Cross", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/holyCross.png?raw=true"},
+			{"abbreviation": "HC", "defenseScheme": "Man-to-Man", "mascot": "Crusaders", "name": "Holy Cross", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/holyCross.png?raw=true"},
 			
-			{"abbreviation": "BU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Boston", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/boston.png?raw=true"},
+			{"abbreviation": "BU", "defenseScheme": "Man-to-Man", "mascot": "Terriers", "name": "Boston", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/boston.png?raw=true"},
 			
-			{"abbreviation": "LEH", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Lehigh", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lehigh.png?raw=true"},
+			{"abbreviation": "LEH", "defenseScheme": "Man-to-Man", "mascot": "Mountain Hawks", "name": "Lehigh", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lehigh.png?raw=true"},
 			
-			{"abbreviation": "L-MD", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Loyola-MD", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/loyolaMD.png?raw=true"},
+			{"abbreviation": "L-MD", "defenseScheme": "Man-to-Man", "mascot": "Greyhounds", "name": "Loyola-MD", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/loyolaMD.png?raw=true"},
 			
-			{"abbreviation": "BUCK", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Bucknell", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/bucknell.png?raw=true"},
+			{"abbreviation": "BUCK", "defenseScheme": "Man-to-Man", "mascot": "Bison", "name": "Bucknell", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/bucknell.png?raw=true"},
 			
-			{"abbreviation": "LAF", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Lafayette", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lafayette.png?raw=true"}],
+			{"abbreviation": "LAF", "defenseScheme": "Man-to-Man", "mascot": "Leopard", "name": "Lafayette", "offenseScheme": "princeton", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lafayette.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 
@@ -704,37 +704,37 @@
 		
 		{"conferencePrestige": 82, "name": "SEC", "protectedPairs": [], "requiredConferenceGames": 18, "teams": 
 			
-			{"abbreviation": "VAN", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Vanderbilt", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/vanderbilt.png?raw=true"}, 
+			{"abbreviation": "VAN", "defenseScheme": "Man-to-Man", "mascot": "Commodores", "name": "Vanderbilt", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/vanderbilt.png?raw=true"}, 
 			
-			{"abbreviation": "UGA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Georgia", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/georgia.png?raw=true"},
+			{"abbreviation": "UGA", "defenseScheme": "Man-to-Man", "mascot": "Bulldogs", "name": "Georgia", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/georgia.png?raw=true"},
 		
-		{"abbreviation": "LSU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "LSU", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lsu.png?raw=true"},
+		{"abbreviation": "LSU", "defenseScheme": "Man-to-Man", "mascot": "Tigers", "name": "LSU", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lsu.png?raw=true"},
 		
-		{"abbreviation": "ALA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Alabama", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alabama.png?raw=true"},
+		{"abbreviation": "ALA", "defenseScheme": "Man-to-Man", "mascot": "Crimson Tide", "name": "Alabama", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alabama.png?raw=true"},
 		
-		{"abbreviation": "ARK", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Arkansas", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansas.png?raw=true"},
+		{"abbreviation": "ARK", "defenseScheme": "Man-to-Man", "mascot": "Razorbacks", "name": "Arkansas", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansas.png?raw=true"},
 		
-		{"abbreviation": "MIZ", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Missouri", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/missouri.png?raw=true"},
+		{"abbreviation": "MIZ", "defenseScheme": "Man-to-Man", "mascot": "Tigers", "name": "Missouri", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Midwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/missouri.png?raw=true"},
 		
-		{"abbreviation": "OU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Oklahoma", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/oklahoma.png?raw=true"},
+		{"abbreviation": "OU", "defenseScheme": "Man-to-Man", "mascot": "Sooners", "name": "Oklahoma", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/oklahoma.png?raw=true"},
 		
-		{"abbreviation": "TENN", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Tennessee", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennessee.png?raw=true"},
+		{"abbreviation": "TENN", "defenseScheme": "Man-to-Man", "mascot": "Volunteers", "name": "Tennessee", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/tennessee.png?raw=true"},
 		
-		{"abbreviation": "TA&M", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Texas A&M", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasAM.png?raw=true"},
+		{"abbreviation": "TA&M", "defenseScheme": "Man-to-Man", "mascot": "Aggies", "name": "Texas A&M", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasAM.png?raw=true"},
 		
-		{"abbreviation": "AUB", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Auburn", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/auburn.png?raw=true"},
+		{"abbreviation": "AUB", "defenseScheme": "Man-to-Man", "mascot": "Tigers", "name": "Auburn", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/auburn.png?raw=true"},
 		
-		{"abbreviation": "FLA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Florida", "offenseScheme": "pickAndRoll", "prestige": 85, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/florida.png?raw=true"},
+		{"abbreviation": "FLA", "defenseScheme": "Man-to-Man", "mascot": "Gators", "name": "Florida", "offenseScheme": "pickAndRoll", "prestige": 85, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/florida.png?raw=true"},
 		
-		{"abbreviation": "UK", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Kentucky", "offenseScheme": "pickAndRoll", "prestige": 94, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/kentucky.png?raw=true"},
+		{"abbreviation": "UK", "defenseScheme": "Man-to-Man", "mascot": "Wildcats", "name": "Kentucky", "offenseScheme": "pickAndRoll", "prestige": 94, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/kentucky.png?raw=true"},
 		
-		{"abbreviation": "SC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "South Carolina", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southCarolina.png?raw=true"},
+		{"abbreviation": "SC", "defenseScheme": "Man-to-Man", "mascot": "Gamecocks", "name": "South Carolina", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southCarolina.png?raw=true"},
 		
-		{"abbreviation": "TEX", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Texas", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texas.png?raw=true"},
+		{"abbreviation": "TEX", "defenseScheme": "Man-to-Man", "mascot": "Longhorns", "name": "Texas", "offenseScheme": "pickAndRoll", "prestige": 84, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texas.png?raw=true"},
 		
-		{"abbreviation": "MISS", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Ole Miss", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mississippi.png?raw=true"},
+		{"abbreviation": "MISS", "defenseScheme": "Man-to-Man", "mascot": "Rebels", "name": "Ole Miss", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mississippi.png?raw=true"},
 		
-		{"abbreviation": "MSST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Mississippi State", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mississippiState.png?raw=true"}],
+		{"abbreviation": "MSST", "defenseScheme": "Man-to-Man", "mascot": "Bulldogs", "name": "Mississippi State", "offenseScheme": "pickAndRoll", "prestige": 80, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mississippiState.png?raw=true"}],
 	
 	"tier": "Power", "conferenceLogoURL": ""}, 
 
@@ -742,25 +742,25 @@
 
 		{"conferencePrestige": 50, "name": "Southern Conference", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "FUR", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Furman", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/furman.png?raw=true"},
+			{"abbreviation": "FUR", "defenseScheme": "Man-to-Man", "mascot": "Paladins", "name": "Furman", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/furman.png?raw=true"},
 			
-			{"abbreviation": "ETSU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "East Tennessee State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/eastTennesseeState.png?raw=true"},
+			{"abbreviation": "ETSU", "defenseScheme": "Man-to-Man", "mascot": "Buccaneers", "name": "East Tennessee State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/eastTennesseeState.png?raw=true"},
 			
-			{"abbreviation": "WOF", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Wofford", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/wofford.png?raw=true"},
+			{"abbreviation": "WOF", "defenseScheme": "Man-to-Man", "mascot": "Terriers", "name": "Wofford", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/wofford.png?raw=true"},
 			
-			{"abbreviation": "SAM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Samford", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/samford.png?raw=true"},
+			{"abbreviation": "SAM", "defenseScheme": "Man-to-Man", "mascot": "Bulldogs", "name": "Samford", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/samford.png?raw=true"},
 			
-			{"abbreviation": "UTC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "The Citadel", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/citadel.png?raw=true"},
+			{"abbreviation": "UTC", "defenseScheme": "Man-to-Man", "mascot": "Bulldogs", "name": "The Citadel", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/citadel.png?raw=true"},
 			
-			{"abbreviation": "VMI", "defenseScheme": "Full Court Press", "mascot": "Warriors", "name": "VMI", "offenseScheme": "uptempo", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/vmi.png?raw=true"},
+			{"abbreviation": "VMI", "defenseScheme": "Full Court Press", "mascot": "Keydets", "name": "VMI", "offenseScheme": "uptempo", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/vmi.png?raw=true"},
 			
-			{"abbreviation": "UNCG", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "UNC Greensboro", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/uncGreensboro.png?raw=true"},
+			{"abbreviation": "UNCG", "defenseScheme": "Man-to-Man", "mascot": "Spartans", "name": "UNC Greensboro", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/uncGreensboro.png?raw=true"},
 			
-			{"abbreviation": "MER", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Mercer", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mercer.png?raw=true"},
+			{"abbreviation": "MER", "defenseScheme": "Man-to-Man", "mascot": "Bears", "name": "Mercer", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mercer.png?raw=true"},
 			
-			{"abbreviation": "WCU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Western Carolina", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/westernCarolina.png?raw=true"},
+			{"abbreviation": "WCU", "defenseScheme": "Man-to-Man", "mascot": "Catamounts", "name": "Western Carolina", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/westernCarolina.png?raw=true"},
 			
-			{"abbreviation": "UTC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "UTC", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/utc.png?raw=true"}],
+			{"abbreviation": "CHAT", "defenseScheme": "Man-to-Man", "mascot": "Mocs", "name": "Chattanooga", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/utc.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 
@@ -768,29 +768,29 @@
 		
 		{"conferencePrestige": 50, "name": "Southland Conference", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "SFA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Stephen F. austin", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/stephenFAustin.png?raw=true"},
+			{"abbreviation": "SFA", "defenseScheme": "Man-to-Man", "mascot": "Lumberjacks", "name": "Stephen F. austin", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/stephenFAustin.png?raw=true"},
 			
-			{"abbreviation": "NICH", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Nicholls State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/nichollsState.png?raw=true"},
+			{"abbreviation": "NICH", "defenseScheme": "Man-to-Man", "mascot": "Colonols", "name": "Nicholls State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/nichollsState.png?raw=true"},
 			
-			{"abbreviation": "MCN", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Mcneese State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mcneeseState.png?raw=true"},
+			{"abbreviation": "MCN", "defenseScheme": "Man-to-Man", "mascot": "Cowboys", "name": "Mcneese State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mcneeseState.png?raw=true"},
 			
-			{"abbreviation": "UNO", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "New Orleans", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/newOrleans.png?raw=true"},
+			{"abbreviation": "UNO", "defenseScheme": "Man-to-Man", "mascot": "Privateers", "name": "New Orleans", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/newOrleans.png?raw=true"},
 			
-			{"abbreviation": "UIW", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Incarnate Word", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/incarnateWord.png?raw=true"},
+			{"abbreviation": "UIW", "defenseScheme": "Man-to-Man", "mascot": "Cardinals", "name": "Incarnate Word", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/incarnateWord.png?raw=true"},
 			
-			{"abbreviation": "LAM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Lamar", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lamar.png?raw=true"},
+			{"abbreviation": "LAM", "defenseScheme": "Man-to-Man", "mascot": "Cardinals", "name": "Lamar", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/lamar.png?raw=true"},
 			
-			{"abbreviation": "AMCC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Texas A&M CC", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasAandmCC.png?raw=true"},
+			{"abbreviation": "AMCC", "defenseScheme": "Man-to-Man", "mascot": "Islanders", "name": "Texas A&M CC", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasAandmCC.png?raw=true"},
 			
-			{"abbreviation": "UTRGV", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Rio Grande Valley", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/rioGrandeValley.png?raw=true"},
+			{"abbreviation": "UTRGV", "defenseScheme": "Man-to-Man", "mascot": "Vaqueros", "name": "Rio Grande Valley", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/rioGrandeValley.png?raw=true"},
 			
-			{"abbreviation": "NWST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Northwestern State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/northwesternState.png?raw=true"},
+			{"abbreviation": "NWST", "defenseScheme": "Man-to-Man", "mascot": "Demons", "name": "Northwestern State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/northwesternState.png?raw=true"},
 			
-			{"abbreviation": "ETAM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "East Texas A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/eastTexasAandm.png?raw=true"},
+			{"abbreviation": "ETAM", "defenseScheme": "Man-to-Man", "mascot": "Lions", "name": "East Texas A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/eastTexasAandm.png?raw=true"},
 			
-			{"abbreviation": "SELA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Southeastern Louisiana", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southeasternLouisiana.png?raw=true"},
+			{"abbreviation": "SELA", "defenseScheme": "Man-to-Man", "mascot": "Lions", "name": "Southeastern Louisiana", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southeasternLouisiana.png?raw=true"},
 			
-			{"abbreviation": "HCU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Houston Christian", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/houstonChristian.png?raw=true"}],
+			{"abbreviation": "HCU", "defenseScheme": "Man-to-Man", "mascot": "Huskies", "name": "Houston Christian", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/houstonChristian.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 
@@ -798,29 +798,29 @@
 		
 		{"conferencePrestige": 50, "name": "Southwestern Athletic Conference", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "AAMU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Alabama A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alabamaAandm.png?raw=true"},
+			{"abbreviation": "AAMU", "defenseScheme": "Man-to-Man", "mascot": "Bulldogs", "name": "Alabama A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alabamaAandm.png?raw=true"},
 			
-			{"abbreviation": "GRAM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Grambling State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/gramblingState.png?raw=true"},
+			{"abbreviation": "GRAM", "defenseScheme": "Man-to-Man", "mascot": "Tigers", "name": "Grambling State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/gramblingState.png?raw=true"},
 			
-			{"abbreviation": "PVAM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Prairie View A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/prairieViewAandm.png?raw=true"},
+			{"abbreviation": "PVAM", "defenseScheme": "Man-to-Man", "mascot": "Panthers", "name": "Prairie View A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/prairieViewAandm.png?raw=true"},
 			
-			{"abbreviation": "SOU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Southern", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southern.png?raw=true"},
+			{"abbreviation": "SOU", "defenseScheme": "Man-to-Man", "mascot": "Jaguars", "name": "Southern", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southern.png?raw=true"},
 			
-			{"abbreviation": "FAMU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Florida A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/floridaAandm.png?raw=true"},
+			{"abbreviation": "FAMU", "defenseScheme": "Man-to-Man", "mascot": "Rattlers", "name": "Florida A&M", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/floridaAandm.png?raw=true"},
 			
-			{"abbreviation": "ALST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Alcorn State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alcornState.png?raw=true"},
+			{"abbreviation": "ALST", "defenseScheme": "Man-to-Man", "mascot": "Braves", "name": "Alcorn State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alcornState.png?raw=true"},
 			
-			{"abbreviation": "UAPB", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Arkansas-Pine Bluff", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansasPineBluff.png?raw=true"},
+			{"abbreviation": "UAPB", "defenseScheme": "Man-to-Man", "mascot": "Golden Lions", "name": "Arkansas-Pine Bluff", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansasPineBluff.png?raw=true"},
 			
-			{"abbreviation": "BCU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Bethune-Cookman", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/bethuneCookman.png?raw=true"},
+			{"abbreviation": "BCU", "defenseScheme": "Man-to-Man", "mascot": "Wildcats", "name": "Bethune-Cookman", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/bethuneCookman.png?raw=true"},
 			
-			{"abbreviation": "TXSO", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Texas Southern", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasSouthern.png?raw=true"},
+			{"abbreviation": "TXSO", "defenseScheme": "Man-to-Man", "mascot": "Tigers", "name": "Texas Southern", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasSouthern.png?raw=true"},
 			
-			{"abbreviation": "ALST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Alabama State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alabamaState.png?raw=true"},
+			{"abbreviation": "ALST", "defenseScheme": "Man-to-Man", "mascot": "Hornets", "name": "Alabama State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/alabamaState.png?raw=true"},
 			
-			{"abbreviation": "JKST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Jackson State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/jacksonState.png?raw=true"},
+			{"abbreviation": "JKST", "defenseScheme": "Man-to-Man", "mascot": "Tigers", "name": "Jackson State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Northeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/jacksonState.png?raw=true"},
 			
-			{"abbreviation": "MVSU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Mississippi Valley State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mississippiValleyState.png?raw=true"}],
+			{"abbreviation": "MVSU", "defenseScheme": "Man-to-Man", "mascot": "Delta Devils", "name": "Mississippi Valley State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/mississippiValleyState.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 
@@ -828,23 +828,23 @@
 		
 		{"conferencePrestige": 50, "name": "Summit League", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "DEN", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Denver", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/denver.png?raw=true"},
+			{"abbreviation": "DEN", "defenseScheme": "Man-to-Man", "mascot": "Pioneers", "name": "Denver", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/denver.png?raw=true"},
 			
-			{"abbreviation": "STS", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "St. Thomas", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/stThomas.png?raw=true"},
+			{"abbreviation": "STS", "defenseScheme": "Man-to-Man", "mascot": "Tommies", "name": "St. Thomas", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/stThomas.png?raw=true"},
 			
-			{"abbreviation": "NDSU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "North Dakota State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/northDakotaState.png?raw=true"},
+			{"abbreviation": "NDSU", "defenseScheme": "Man-to-Man", "mascot": "Bison", "name": "North Dakota State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/northDakotaState.png?raw=true"},
 			
-			{"abbreviation": "SDKS", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "South Dakota State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southDakotaState.png?raw=true"},
+			{"abbreviation": "SDKS", "defenseScheme": "Man-to-Man", "mascot": "Jackrabbits", "name": "South Dakota State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southDakotaState.png?raw=true"},
 			
-			{"abbreviation": "OMA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Omaha", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/omaha.png?raw=true"},
+			{"abbreviation": "OMA", "defenseScheme": "Man-to-Man", "mascot": "Mavericks", "name": "Omaha", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/omaha.png?raw=true"},
 			
-			{"abbreviation": "SD", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "South Dakota", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southDakota.png?raw=true"},
+			{"abbreviation": "SD", "defenseScheme": "Man-to-Man", "mascot": "Coyotes", "name": "South Dakota", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southDakota.png?raw=true"},
 			
-			{"abbreviation": "UND", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "North Dakota", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/northDakota.png?raw=true"},
+			{"abbreviation": "UND", "defenseScheme": "Man-to-Man", "mascot": "Fighting Hawks", "name": "North Dakota", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/northDakota.png?raw=true"},
 			
-			{"abbreviation": "ORU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Oral Roberts", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/oralRoberts.png?raw=true"},
+			{"abbreviation": "ORU", "defenseScheme": "Man-to-Man", "mascot": "Golden Eagles", "name": "Oral Roberts", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/oralRoberts.png?raw=true"},
 			
-			{"abbreviation": "UMKC", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "UMKC", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/umkc.png?raw=true"}],
+			{"abbreviation": "UMKC", "defenseScheme": "Man-to-Man", "mascot": "Roos", "name": "UMKC", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Plains", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/umkc.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 
@@ -852,33 +852,33 @@
 		
 		{"conferencePrestige": 50, "name": "Sun Belt Conference", "protectedPairs": [], "requiredConferenceGames": 18, "teams": [
 			
-			{"abbreviation": "ARST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Arkansas State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansasState.png?raw=true"},
+			{"abbreviation": "ARST", "defenseScheme": "Man-to-Man", "mascot": "Red Wolves", "name": "Arkansas State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/arkansasState.png?raw=true"},
 			
-			{"abbreviation": "GASO", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Georgia Southern", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/georgiaSouthern.png?raw=true"},
+			{"abbreviation": "GASO", "defenseScheme": "Man-to-Man", "mascot": "Eagles", "name": "Georgia Southern", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/georgiaSouthern.png?raw=true"},
 			
-			{"abbreviation": "TROY", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "TROY", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/troy.png?raw=true"},
+			{"abbreviation": "TROY", "defenseScheme": "Man-to-Man", "mascot": "Trojans", "name": "TROY", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/troy.png?raw=true"},
 			
-			{"abbreviation": "USA", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "South Alabama", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southAlabama.png?raw=true"},
+			{"abbreviation": "USA", "defenseScheme": "Man-to-Man", "mascot": "Jaguars", "name": "South Alabama", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southAlabama.png?raw=true"},
 			
-			{"abbreviation": "APP", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "App State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/appState.png?raw=true"},
+			{"abbreviation": "APP", "defenseScheme": "Man-to-Man", "mascot": "Mountaineers", "name": "App State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/appState.png?raw=true"},
 			
-			{"abbreviation": "MRSH", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Marshall", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/marshall.png?raw=true"},
+			{"abbreviation": "MRSH", "defenseScheme": "Man-to-Man", "mascot": "Thundering Herd", "name": "Marshall", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/marshall.png?raw=true"},
 			
-			{"abbreviation": "CCU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Coastal Carolina", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/coastalCarolina.png?raw=true"},
+			{"abbreviation": "CCU", "defenseScheme": "Man-to-Man", "mascot": "Chanticleers", "name": "Coastal Carolina", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/coastalCarolina.png?raw=true"},
 			
-			{"abbreviation": "USM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Southern Miss", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southernMiss.png?raw=true"},
+			{"abbreviation": "USM", "defenseScheme": "Man-to-Man", "mascot": "Golden Eagles", "name": "Southern Miss", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/southernMiss.png?raw=true"},
 			
-			{"abbreviation": "TXST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Texas State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasState.png?raw=true"},
+			{"abbreviation": "TXST", "defenseScheme": "Man-to-Man", "mascot": "Bobcats", "name": "Texas State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southwest", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/texasState.png?raw=true"},
 			
-			{"abbreviation": "GAST", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Georgia State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/georgiaState.png?raw=true"},
+			{"abbreviation": "GAST", "defenseScheme": "Man-to-Man", "mascot": "Panthers", "name": "Georgia State", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/georgiaState.png?raw=true"},
 			
-			{"abbreviation": "ODU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Old Dominion", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/oldDominion.png?raw=true"},
+			{"abbreviation": "ODU", "defenseScheme": "Man-to-Man", "mascot": "Monarchs", "name": "Old Dominion", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/oldDominion.png?raw=true"},
 			
-			{"abbreviation": "UL", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "Louisiana", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/louisiana.png?raw=true"},
+			{"abbreviation": "UL", "defenseScheme": "Man-to-Man", "mascot": "Ragin Cajuns", "name": "Louisiana", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/louisiana.png?raw=true"},
 			
-			{"abbreviation": "JMU", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "James Madison", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/jamesMadison.png?raw=true"},
+			{"abbreviation": "JMU", "defenseScheme": "Man-to-Man", "mascot": "Dukes", "name": "James Madison", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/jamesMadison.png?raw=true"},
 			
-			{"abbreviation": "ULM", "defenseScheme": "Man-to-Man", "mascot": "Warriors", "name": "ULM", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/ulm.png?raw=true"}],
+			{"abbreviation": "ULM", "defenseScheme": "Man-to-Man", "mascot": "Warhawks", "name": "ULM", "offenseScheme": "motion", "prestige": 50, "primary": "#FF0000", "region": "Southeast", "secondary": "#FFFFFF", "tertiary": "#000000", "logoURL": "https://github.com/klunn91/team-logos/blob/master/NCAA/ulm.png?raw=true"}],
 			
 			"tier": "Non-Power", "conferenceLogoURL": ""}, 
 
